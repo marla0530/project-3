@@ -1,0 +1,42 @@
+﻿  bst.cpp
+C:\Users\Hao\source\repos\Project3\Project3\bst.cpp(48,16): warning C4018: '<=': signed/unsigned mismatch
+  Main.cpp
+C:\Users\Hao\source\repos\Project3\Project3\Main.cpp(115,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\Project3\Project3\Main.cpp(123,76): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Hao\source\repos\Project3\Project3\Main.cpp(134,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\Project3\Project3\Main.cpp(140,86): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Hao\source\repos\Project3\Project3\Main.cpp(154,83): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Hao\source\repos\Project3\Project3\Main.cpp(161,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\Project3\Project3\Main.cpp(182,83): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Hao\source\repos\Project3\Project3\Main.cpp(189,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\Project3\Project3\Main.cpp(49,27): warning C4101: 'e': unreferenced local variable
+C:\Users\Hao\source\repos\Project3\Project3\Main.cpp(102,27): warning C4101: 'e': unreferenced local variable
+  maxHeap.cpp
+C:\Users\Hao\source\repos\Project3\Project3\maxHeap.cpp(38,24): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Hao\source\repos\Project3\Project3\maxHeap.cpp(40,37): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Hao\source\repos\Project3\Project3\maxHeap.cpp(93,32): warning C4018: '<': signed/unsigned mismatch
+  minHeap.cpp
+C:\Users\Hao\source\repos\Project3\Project3\minHeap.cpp(44,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\Project3\Project3\minHeap.cpp(50,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\Project3\Project3\minHeap.cpp(88,29): warning C4018: '<': signed/unsigned mismatch
+  vecVector.cpp
+C:\Users\Hao\source\repos\Project3\Project3\vecVector.cpp(12,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hao\source\repos\Project3\Project3\vecVector.cpp(35,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Project3.vcxproj -> C:\Users\Hao\source\repos\Project3\Debug\Project3.exe
